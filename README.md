@@ -1,4 +1,3 @@
-```markdown
 # Finance Forecast – Insider Cluster Buys + Zacks Rankings
 
 Automated Node.js + React app that:  
@@ -168,4 +167,3 @@ npm run start-all   # sets up everything and starts backend + frontend
 ## 🔗 Acknowledgments
 
 * **Zacks API Integration**: This project leverages the [zacks-api](https://github.com/janlukasschroeder/zacks-api) library by [Jan Lukas Schroeder](https://github.com/janlukasschroeder) to retrieve Zacks investment research data.
-```
